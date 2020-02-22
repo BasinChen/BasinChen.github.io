@@ -63,7 +63,7 @@ print(Queen_n, "皇后问题有",QueenSolution_n,"种解,用时" ,int((time.cloc
 
 [Link](url) and ![Image](src)
 ```
-[Image1](pic1.jpg)
+![Image1](pic1.jpg)
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
