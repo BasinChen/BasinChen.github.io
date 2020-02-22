@@ -58,7 +58,7 @@ nQueens()
 print(Queen_n, "皇后问题有",QueenSolution_n,"种解,用时" ,int((time.clock()-time0)*1000),"ms")`
 
 
-[Image1](pic1.jpg)
+[Image1](pic1)
 
 [Link](url) and ![Image](src)
 ```
