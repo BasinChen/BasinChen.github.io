@@ -2,7 +2,7 @@
 
 ## SinChen Blog
 
-This is my first Blog page, welcone to [Math](www.basinchen.github.io/gre_math).
+This is my first Blog page, welcone to [Math](gre_math).
 
 ### Markdown
 
