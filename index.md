@@ -23,7 +23,8 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 Code:
-`  import time
+`python`
+`import time
 Queen_n = 8#皇后数量
 queens = [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]#保存所有皇后的位置
 QueenSolution_n = 0#有多少解
