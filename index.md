@@ -24,7 +24,7 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 Code:
 `python`
-`import time
+import time
 Queen_n = 8#皇后数量
 queens = [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]#保存所有皇后的位置
 QueenSolution_n = 0#有多少解
@@ -56,7 +56,7 @@ def nQueens():
  
 time0=time.clock()
 nQueens()
-print(Queen_n, "皇后问题有",QueenSolution_n,"种解,用时" ,int((time.clock()-time0)*1000),"ms")`
+print(Queen_n, "皇后问题有",QueenSolution_n,"种解,用时" ,int((time.clock()-time0)*1000),"ms")
 
 
 [Image1](pic1)
