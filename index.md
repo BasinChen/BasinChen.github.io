@@ -4,7 +4,7 @@
 
 This is my first Blog page, welcone to [Math](gre_math).
 
-Page reference: 
+Page reference: [reference](reference)
 
 ### Markdown
 
