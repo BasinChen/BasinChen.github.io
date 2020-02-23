@@ -6,25 +6,8 @@ This is my first Blog page, welcone to [Math](gre_math).
 
 Page reference: [reference](reference)
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-Code:`python`
+Code:
+`python`
 ```python
 import time
 Queen_n = 8#皇后数量
@@ -60,6 +43,26 @@ time0=time.clock()
 nQueens()
 print(Queen_n, "皇后问题有",QueenSolution_n,"种解,用时" ,int((time.clock()-time0)*1000),"ms")
 ```
+### Markdown
+
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+```markdown
+Syntax highlighted code block
+
+# Header 1
+## Header 2
+### Header 3
+
+- Bulleted
+- List
+
+1. Numbered
+2. List
+
+**Bold** and _Italic_ and `Code` text
+
+
 
 [Image1](pic1)
 
