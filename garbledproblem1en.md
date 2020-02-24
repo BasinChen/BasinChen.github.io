@@ -28,6 +28,7 @@ Click ```options```then, ```configure TeXstudio``` , ```build```, select Default
 2. Click ```Build & View``` again.
 
 ![garbled2](garbled2.PNG)
+
 Code:
 ```
 \documentclass{article}
