@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-# LaTeX编辑器编辑中文乱码问题
+# LaTeX编辑器编辑中文PDF乱码问题
 
 ## 故障描述
 有时候，我们使用TeXstudio或TeXmaker等编辑器编辑中文PDF会出现乱码问题：
