@@ -1,1 +1,5 @@
 theme: jekyll-theme-cayman
+
+#google search
+sitemap:
+    path: sitemap.xml
