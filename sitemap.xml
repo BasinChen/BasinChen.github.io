@@ -1,1 +1,42 @@
-google-site-verification: google9b4cb9c5c359029b.html
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://basinchen.github.io/</loc>
+  <lastmod>2020-02-24T06:02:43+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://basinchen.github.io/gre_math</loc>
+  <lastmod>2020-02-24T06:02:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://basinchen.github.io/texblog</loc>
+  <lastmod>2020-02-24T06:02:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://basinchen.github.io/reference</loc>
+  <lastmod>2020-02-24T06:02:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://basinchen.github.io/garbledproblem1en</loc>
+  <lastmod>2020-02-24T06:02:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://basinchen.github.io/garbledproblem1cn</loc>
+  <lastmod>2020-02-24T06:02:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>
