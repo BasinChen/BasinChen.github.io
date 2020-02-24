@@ -5,7 +5,9 @@ layout: default
 
 ## Description
 Some times, we use TeX Studio or other editor to coding TeX, the PDF view Chinese is garbled, like this:
+
 ![garbled](garbled.PNG)
+
 Code:
 ```
 \documentclass{article}
@@ -24,6 +26,7 @@ Click ```options```then, ```configure TeXstudio``` , ```build```, select Default
 ![configure](configure.PNG)
 
 2. Click ```Build & View``` again.
+
 ![garbled2](garbled2.PNG)
 Code:
 ```
