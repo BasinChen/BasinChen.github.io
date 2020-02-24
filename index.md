@@ -7,7 +7,7 @@ This is my first Math Blog page, welcone to [Math](gre_math).
 This is my first TeX Blog page, welcone to [TeX](texblog).
 
 Page reference: [reference](reference)
-[google9b4cb9c5c359029b](google9b4cb9c5c359029b.html)
+[google9b4cb9c5c359029b](sitemap.xml)
 Code:
 `python`
 ```python
