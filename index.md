@@ -2,7 +2,9 @@
 
 ## SinChen Blog
 
-This is my first Blog page, welcone to [Math](gre_math).
+This is my first Math Blog page, welcone to [Math](gre_math).
+
+This is my first TeX Blog page, welcone to [TeX](texblog).
 
 Page reference: [reference](reference)
 

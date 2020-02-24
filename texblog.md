@@ -1,35 +1,14 @@
 ---
 layout: default
 ---
-# Problem of TeX code editor display Chinese grabled
+# English Describe
 
-## Description
-Some times, we use TeX Studio or other editor to coding TeX, the PDF view Chinese is garbled, like this:
-![garbled](garbled.PNG)
-Code:
-```
-\documentclass{article}
-\usepackage{ctex}
-\begin{document}
-	你好
-\end{document}
-```
-## Solution
-Solve Chinese display garbled in Texstudio problem:
-Other editors is similar.
+## [Problem of TeX code editor display Chinese grabled](garbledproblem1en)
 
-1. Change the **compiler**
-If the editor is TeXstudio:
-Click ```options```then, ```configure TeXstudio``` , ```build```, select Default compiler ```XeLaTeX``` 
-![configure](configure.PNG)
 
-2. Click ```Build & View``` again.
-![garbled2](garbled2.PNG)
-Code:
-```
-\documentclass{article}
-\usepackage{ctex}
-\begin{document}
-	你好
-\end{document}
-```
+
+
+
+# 中文描述
+
+## [LaTeX编辑器编辑中文乱码问题](garbledproblem1cn)
