@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-# Problem of TeX code editor display Chinese PDF grabled
+# Problem of TeX code editor display Chinese PDF garbled
 
 ## Description
 Some times, we use TeX Studio or other editor to coding TeX, the PDF view Chinese is garbled, like this:
