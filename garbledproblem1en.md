@@ -4,9 +4,9 @@ subtitle: TeX Studio or other editor to coding TeX, the PDF view Chinese is garb
 layout: page
 show_sidebar: false
 ---
-# Problem of TeX code editor display Chinese PDF garbled
+## Problem of TeX code editor display Chinese PDF garbled
 
-## Description
+### Description
 Some times, we use TeX Studio or other editor to coding TeX, the PDF view Chinese is garbled, like this:
 
 ![garbled](garbled.PNG)
@@ -19,7 +19,7 @@ Code:
 	你好
 \end{document}
 ```
-## Solution
+### Solution
 Solve PDF Chinese display garbled in Texstudio problem:
 Other editors is similar.
 
