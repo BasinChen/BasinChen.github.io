@@ -9,9 +9,9 @@ show_sidebar: true
 
 ## SinChen Blog
 
-This is my first Math Blog page, welcone to ![Math](gre_math).
+This is my first Math Blog page, welcone to [Math](gre_math).
 
-This is my first TeX Blog page, welcone to ![TeX](texblog).
+This is my first TeX Blog page, welcone to [TeX](texblog).
 
 
 # Bulma Clean Theme demo website
