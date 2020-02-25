@@ -4,6 +4,7 @@ subtitle: TeX Studio or other editor to coding TeX, the PDF view Chinese is garb
 layout: page
 show_sidebar: false
 ---
+
 ## Problem of TeX code editor display Chinese PDF garbled
 
 ### Description
