@@ -16,4 +16,4 @@ show_sidebar: true
 ## 中文描述
 ## LaTeX编辑器编辑中文PDF乱码问题
 
-## [LaTeX编辑器编辑中文PDF乱码问题](garbledproblem1cn)
+## [LaTeX编辑器编辑中文PDF乱码问题](garbledproblem1cn1)
