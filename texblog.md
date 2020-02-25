@@ -7,7 +7,7 @@ show_sidebar: true
 ## English Describe
 ## Problem of TeX code editor display Chinese PDF grabled
 
-## [Problem of TeX code editor display Chinese PDF grabled](https://basinchen.github.io/texblog/garbledproblem1en)
+## [Problem of TeX code editor display Chinese PDF grabled](https://basinchen.github.io/garbledproblem1en/)
 
 
 
@@ -16,4 +16,4 @@ show_sidebar: true
 ## 中文描述
 ## LaTeX编辑器编辑中文PDF乱码问题
 
-## [LaTeX编辑器编辑中文PDF乱码问题](garbledproblem1cn1)
+## [LaTeX编辑器编辑中文PDF乱码问题](https://basinchen.github.io/garbledproblem1cn)
