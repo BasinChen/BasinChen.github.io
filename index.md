@@ -5,14 +5,6 @@ layout: page
 callouts: home_callouts
 show_sidebar: true
 ---
-# Mathematics Programming Lover
-
-## SinChen Blog
-
-This is my first Math Blog page, welcone to [Math](gre_math).
-
-This is my first TeX Blog page, welcone to [TeX](texblog).
-
 
 # Bulma Clean Theme demo website
 
