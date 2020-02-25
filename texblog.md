@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 ---
 # English Describe
 # Problem of TeX code editor display Chinese PDF grabled

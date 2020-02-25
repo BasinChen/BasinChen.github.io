@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 ---
 # Problem of TeX code editor display Chinese PDF garbled
 

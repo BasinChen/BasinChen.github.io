@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 ---
 # LaTeX编辑器编辑中文PDF乱码问题
 
