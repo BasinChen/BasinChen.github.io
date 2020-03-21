@@ -8,7 +8,7 @@ show_sidebar: false
 ## LaTeX编辑器编辑中文PDF乱码问题
 
 ## 故障描述
-有时候，我们使用TeXstudio或TeXmaker等编辑器编辑中文PDF会出现乱码问题：
+有时候，可能由于```PDFLaTeX```或```LaTeX```等编译方式对中文不友好，我们使用TeXstudio或TeXmaker等编辑器编辑中文PDF会出现乱码问题：
 
 ![garbled](garbled.PNG)
 
