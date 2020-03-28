@@ -1,10 +1,11 @@
 ---
-title: Bulma Clean Theme
-subtitle: This is the demo site for Bulma Clean Theme
+title: 花开花谢两相随
+subtitle: _天地玄黄 宇宙洪荒 日月盈昃 辰宿列张_
 layout: page
 callouts: home_callouts
 show_sidebar: true
 ---
+
 # Mathematics Programming Lover
 
 ## SinChen Blog
@@ -13,8 +14,7 @@ This is my first Math Blog page, welcone to [Math](gre_math).
 
 This is my first TeX Blog page, welcone to [TeX](texblog).
 
-
-# Bulma Clean Theme demo website
+## Bulma Clean Theme demo website
 
 This website showcases the options for the Bulma Clean theme. The theme is available as a ruby gem or can be used with GitHub pages. 
 
