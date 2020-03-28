@@ -1,6 +1,6 @@
 ---
 title: 花开花谢两相随
-subtitle: _天地玄黄 宇宙洪荒 日月盈昃 辰宿列张_
+subtitle: 
 layout: page
 callouts: home_callouts
 show_sidebar: true
@@ -12,7 +12,7 @@ show_sidebar: true
 
 This is my first Math Blog page, welcone to [Math](gre_math).
 
-This is my first TeX Blog page, welcone to [TeX](texblog).
+This is my first TeX Blog page, welcone to [TeX](latexproblem/texblog).
 
 ## Bulma Clean Theme demo website
 
