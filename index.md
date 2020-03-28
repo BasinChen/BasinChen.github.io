@@ -12,7 +12,7 @@ show_sidebar: true
 
 This is my first Math Blog page, welcone to [Math](math/gre_math).
 
-This is my first TeX Blog page, welcone to [TeX](latexproblem/texblog).
+This is my first TeX Blog page, welcone to [LaTeX](latexproblem/texblog).
 
 ## Bulma Clean Theme demo website
 
