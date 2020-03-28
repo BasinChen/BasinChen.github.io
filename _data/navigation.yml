@@ -17,9 +17,9 @@
       link: /page-with-contents/
     - name: Landing Page With Callouts
       link: /landing/
-- name: Products
-  link: /products/
-- name: Showcase
-  link: /showcase/
+- name: Math
+  link: /math/gre_math
+- name: LaTeX
+  link: /latexproblem/texblog
 - name: Blog
   link: /blog/
