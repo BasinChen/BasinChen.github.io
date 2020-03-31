@@ -1,6 +1,6 @@
 ---
-title: 花开花谢两相随
-subtitle: 天地玄黄 宇宙洪荒 日月盈昃 辰宿列张
+title: 没有想好的标题
+subtitle: 成功总是偏爱那些执着于梦想的人
 layout: page
 callouts: home_callouts
 show_sidebar: true
