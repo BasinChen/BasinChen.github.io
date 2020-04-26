@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://basinchen.github.io/</loc>
+  <lastmod>2020-03-31T14:31:44+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://basinchen.github.io/page-2/</loc>
+  <lastmod>2020-03-31T14:31:44+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://basinchen.github.io/page-3/</loc>
+  <lastmod>2020-03-31T14:31:44+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://basinchen.github.io/page-4/</loc>
+  <lastmod>2020-03-31T14:31:44+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://basinchen.github.io/page-5/</loc>
+  <lastmod>2020-03-31T14:31:44+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://basinchen.github.io/page-without-hero/</loc>
+  <lastmod>2020-03-31T14:31:44+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://basinchen.github.io/page-with-contents/</loc>
+  <lastmod>2020-03-31T14:31:44+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://basinchen.github.io/landing/</loc>
+  <lastmod>2020-03-31T14:31:44+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://basinchen.github.io/math/gre_math/</loc>
+  <lastmod>2020-03-31T14:31:44+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://basinchen.github.io/latexproblem/texblog/</loc>
+  <lastmod>2020-03-31T14:31:44+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://basinchen.github.io/blog/</loc>
+  <lastmod>2020-03-31T14:31:44+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://basinchen.github.io/products/</loc>
+  <lastmod>2020-03-31T14:31:44+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://basinchen.github.io/products/product2/</loc>
+  <lastmod>2020-03-31T14:31:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://basinchen.github.io/products/product1/</loc>
+  <lastmod>2020-03-31T14:31:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://basinchen.github.io/products/product3/</loc>
+  <lastmod>2020-03-31T14:31:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>
